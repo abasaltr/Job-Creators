@@ -15,6 +15,7 @@ Possible Data Source Links -
 10. https://www.weforum.org/agenda/2016/07/countries-facing-greatest-skills-shortages/ <br>
 11. https://www.gov.uk/government/publications/skilled-worker-visa-shortage-occupations/skilled-worker-visa-shortage-occupations <br>
 12. https://www.madicorp.com/labor-shortages-skills-gaps-manufacturing <br>
+13. https://ilostat.ilo.org/ <br>
 
 
 
